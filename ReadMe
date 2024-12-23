@@ -1,0 +1,13 @@
+1) Öffne bei deinen WLANs das Netzwerk "WLED-AP"
+2) Gebe den Code "wled1234" ein
+3) Gehe in deinem Browser zu "4.3.2.1"
+4) Gehe zu den Wifi Settings in WLED
+5) Ändere die Wifi credentials auf deine um
+
+
+
+Falls die Standard Settings resetted wurden:
+
+Input Pin = 2
+LED Anzahl Nico = 58
+LED Anzahl Marcus = 68
